@@ -198,7 +198,6 @@ Web_Technology_CA/
 ## 👨‍💻 Author
 
 **Umindu Dinal**
-- Registration No: 23IT0470
 - GitHub: [@umindudinal](https://github.com/umindudinal)
 - Email: umindudinal@gmail.com
 
